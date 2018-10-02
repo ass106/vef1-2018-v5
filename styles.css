@@ -74,6 +74,7 @@ p {
   align-items: flex-start;
   overflow-y: auto;
   word-break: break-all;
+  overflow-x: auto;
 
 }
 
