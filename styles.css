@@ -77,7 +77,7 @@ p {
 
 }
 
-.card ul {
+.card__list {
   display: flex;
   align-items: flex-end;
   flex-wrap: wrap;
@@ -88,6 +88,6 @@ p {
   margin: 8px;
 }
 
-.card li {
+.list__item {
   margin-right: 5px;
 }
